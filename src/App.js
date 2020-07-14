@@ -116,7 +116,7 @@ function App() {
       >
         <div className="container">
           <a className="navbar-brand" href="/">
-            <span>Z</span>hang
+            <span>D</span>on
           </a>
           <button
             className="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle"
@@ -194,7 +194,7 @@ function App() {
                   <div className="col-lg-8 col-md-6 ftco-animate d-flex align-items-center">
                     <div className="text text-center">
                       <span className="subheading">Hey! I am</span>
-                      <h1>Zhang Wei</h1>
+                      <h1>Don Zhang</h1>
                       <h2>
                         I'm a&nbsp;
                         <span
@@ -236,7 +236,7 @@ function App() {
                   >
                     <li className="ftco-animate hero-social-icon">
                       <a
-                        href="https://angel.co/u/zhang-wei-9"
+                        href="https://angel.co/u/don-zhang-1"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
@@ -245,7 +245,7 @@ function App() {
                     </li>
                     <li className="ftco-animate hero-social-icon">
                       <a
-                        href="https://www.linkedin.com/in/zhang-wei-303b32143/"
+                        href="https://www.linkedin.com/in/don-zhang-24b3621b2/"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
@@ -323,7 +323,7 @@ function App() {
                 </p>{" "} */}
                 <ul className="about-info mt-4 px-md-0 px-2">
                   <li className="d-flex">
-                    <span>Name:</span> <span>Zhang Wei</span>
+                    <span>Name:</span> <span>Don Zhang</span>
                   </li>
                   <li className="d-flex">
                     <span>Date of birth:</span> <span>June 05, 1989</span>
@@ -336,10 +336,10 @@ function App() {
                     <span>Zip code:</span> <span>999077</span>
                   </li> */}
                   <li className="d-flex">
-                    <span>Email:</span> <span>zhangwei59765@gmail.com</span>
+                    <span>Email:</span> <span>don.zhang0605@gmail.com</span>
                   </li>
                   <li className="d-flex">
-                    <span>Phone: </span> <span>+86 13124249532</span>
+                    <span>Phone: </span> <span>+1 (807) 789-3053</span>
                   </li>
                 </ul>
               </div>
@@ -522,106 +522,6 @@ function App() {
 
               <div id="page-3" className="page three">
                 <h2 className="heading">Skills</h2>
-                {/* <div className="row progress-circle mb-5">
-                    <div className="col-lg-4 mb-4">
-                      <div className="bg-white rounded-lg shadow p-4">
-                        <h2 className="h5 font-weight-bold text-center mb-4">
-                          React
-                        </h2>
-
-                        <div className="progress mx-auto" data-value="90">
-                          <span className="progress-left">
-                            <span className="progress-bar border-primary"></span>
-                          </span>
-                          <span className="progress-right">
-                            <span className="progress-bar border-primary"></span>
-                          </span>
-                          <div className="progress-value w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
-                            <div className="h2 font-weight-bold">
-                              90<sup className="small">%</sup>
-                            </div>
-                          </div>
-                        </div>
-
-                        <div className="row text-center mt-4">
-                          <div className="col-6 border-right">
-                            <div className="h4 font-weight-bold mb-0">28%</div>
-                            <span className="small text-gray">Last week</span>
-                          </div>
-                          <div className="col-6">
-                            <div className="h4 font-weight-bold mb-0">60%</div>
-                            <span className="small text-gray">Last month</span>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="col-lg-4 mb-4">
-                      <div className="bg-white rounded-lg shadow p-4">
-                        <h2 className="h5 font-weight-bold text-center mb-4">
-                          Flutter
-                        </h2>
-
-                        <div className="progress mx-auto" data-value="80">
-                          <span className="progress-left">
-                            <span className="progress-bar border-primary"></span>
-                          </span>
-                          <span className="progress-right">
-                            <span className="progress-bar border-primary"></span>
-                          </span>
-                          <div className="progress-value w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
-                            <div className="h2 font-weight-bold">
-                              80<sup className="small">%</sup>
-                            </div>
-                          </div>
-                        </div>
-
-                        <div className="row text-center mt-4">
-                          <div className="col-6 border-right">
-                            <div className="h4 font-weight-bold mb-0">28%</div>
-                            <span className="small text-gray">Last week</span>
-                          </div>
-                          <div className="col-6">
-                            <div className="h4 font-weight-bold mb-0">60%</div>
-                            <span className="small text-gray">Last month</span>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="col-lg-4 mb-4">
-                      <div className="bg-white rounded-lg shadow p-4">
-                        <h2 className="h5 font-weight-bold text-center mb-4">
-                          Vue
-                        </h2>
-
-                        <div className="progress mx-auto" data-value="75">
-                          <span className="progress-left">
-                            <span className="progress-bar border-primary"></span>
-                          </span>
-                          <span className="progress-right">
-                            <span className="progress-bar border-primary"></span>
-                          </span>
-                          <div className="progress-value w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
-                            <div className="h2 font-weight-bold">
-                              75<sup className="small">%</sup>
-                            </div>
-                          </div>
-                        </div>
-
-                        <div className="row text-center mt-4">
-                          <div className="col-6 border-right">
-                            <div className="h4 font-weight-bold mb-0">28%</div>
-                            <span className="small text-gray">Last week</span>
-                          </div>
-                          <div className="col-6">
-                            <div className="h4 font-weight-bold mb-0">60%</div>
-                            <span className="small text-gray">Last month</span>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div> */}
                 <div className="row">
                   <div className="col-md-6 animate-box">
                     <div className="progress-wrap ftco-animate">
@@ -1452,7 +1352,7 @@ function App() {
               </p>
               <p className="mb-0">
                 <a
-                  href="https://www.linkedin.com/in/zhang-wei-303b32143/"
+                  href="https://www.linkedin.com/in/don-zhang-24b3621b2/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn btn-primary py-3 px-5"
@@ -1495,7 +1395,7 @@ function App() {
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      zhangwei59765@gmail.com
+                      live:.cid.593c3342eaf7fb75
                     </a>
                   </p>
                 </div>
@@ -1509,7 +1409,7 @@ function App() {
                 <div>
                   <h3 className="mb-4">Contact Number</h3>
                   <p>
-                    <a href="tel://13124249532">+86 13124249532</a>
+                    <a href="tel://18077893053">+1 (807)789-3053</a>
                   </p>
                 </div>
               </div>
@@ -1522,8 +1422,8 @@ function App() {
                 <div>
                   <h3 className="mb-4">Email Address</h3>
                   <p>
-                    <a href="mailto:zhangwei59765@gmail.com">
-                      zhangwei59765@gmail.com
+                    <a href="mailto:don.zhang0605@gmail.com">
+                      don.zhang0605@gmail.com
                     </a>
                   </p>
                 </div>
@@ -1538,7 +1438,7 @@ function App() {
                   <h3 className="mb-4">Linkedin</h3>
                   <p>
                     <a
-                      href="https://www.linkedin.com/in/zhang-wei-303b32143/"
+                      href="https://www.linkedin.com/in/don-zhang-24b3621b2/"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -1553,7 +1453,7 @@ function App() {
           <div className="row no-gutters block-9">
             <div className="col-md-6 order-md-last d-flex">
               <form
-                action="mailto:zhangwei59765@gmail.com"
+                action="mailto:don.zhang0605@gmail.com"
                 method="post"
                 encType="text/plain"
                 className="bg-light p-4 p-md-5 contact-form"
@@ -1623,7 +1523,7 @@ function App() {
                 <ul className="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                   <li className="ftco-animate">
                     <a
-                      href="https://angel.co/u/zhang-wei-9"
+                      href="https://angel.co/u/don-zhang-1"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -1632,7 +1532,7 @@ function App() {
                   </li>
                   <li className="ftco-animate">
                     <a
-                      href="https://www.linkedin.com/in/zhang-wei-303b32143/"
+                      href="https://www.linkedin.com/in/don-zhang-24b3621b2/"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -1743,19 +1643,19 @@ function App() {
                         rel="noopener noreferrer"
                       >
                         <span className="icon icon-skype"></span>
-                        <span className="text">zhangwei59765@gmail.com</span>
+                        <span className="text">live:.cid.593c3342eaf7fb75</span>
                       </a>
                     </li>
                     <li>
                       <a href="tel://13124249532">
                         <span className="icon icon-phone"></span>
-                        <span className="text">+86 13124249532</span>
+                        <span className="text">+1 (807)789-3053</span>
                       </a>
                     </li>
                     <li>
-                      <a href="mailto:zhangwei59765@gmail.com">
+                      <a href="mailto:don.zhang0605@gmail.com">
                         <span className="icon icon-envelope"></span>
-                        <span className="text">zhangwei59765@gmail.com</span>
+                        <span className="text">don.zhang0605@gmail.com</span>
                       </a>
                     </li>
                   </ul>
@@ -1770,7 +1670,7 @@ function App() {
               rights reserved | This Introducing website is made with{" "}
               <i className="icon-heart color-danger" aria-hidden="true"></i> by{" "}
               <a
-                href="https://www.linkedin.com/in/zhang-wei-303b32143/"
+                href="https://www.linkedin.com/in/don-zhang-24b3621b2/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -1780,29 +1680,6 @@ function App() {
           </div>
         </div>
       </footer>
-      {/* <div id="ftco-loader" className="show fullscreen">
-        <svg className="circular" width="48px" height="48px">
-          <circle
-            className="path-bg"
-            cx="24"
-            cy="24"
-            r="22"
-            fill="none"
-            strokeWidth="4"
-            stroke="#eeeeee"
-          />
-          <circle
-            className="path"
-            cx="24"
-            cy="24"
-            r="22"
-            fill="none"
-            strokeWidth="4"
-            strokeMiterlimit="10"
-            stroke="#F96D00"
-          />
-        </svg>
-      </div> */}
     </div>
   );
 }
